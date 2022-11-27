@@ -2,6 +2,7 @@
   "name": "bonik-shop",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://abinjames09.github.io/React_Ecomwebapp_design",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
